@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "ba9f",
+      "name": "mohammed shanis",
+      "address": "palathingal",
+      "phone": "07356379172"
+    },
+    {
+      "id": "7541",
+      "name": "john",
+      "address": "kurishingal",
+      "phone": "07356379172"
+    }
+  ]
+}
